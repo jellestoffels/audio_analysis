@@ -1,5 +1,5 @@
 # audio_analysis
-This notebook takes multiple audio files of the same song and returns an audio quality score for each file.
+This notebook analyses all audio files in the same folder and returns an audio quality score for each file.
 
 Please format your audio files as:
 
